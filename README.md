@@ -35,3 +35,11 @@ Exercise in this form of manner for these patients helps them to improve their m
 <h3> 🤝🏻 Connect with Team Pi </h3>
 <p>
 &nbsp; <a href="https://youtu.be/C8Sgdsks5e0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png"  width="50" /></a>
+
+## Brains behind this project:
+
+<a href="https://github.com/Curovearth"> Swarup Tripathy :smile: </a>
+
+<a href="https://github.com/yatharthagr7"> Yatharth Agarwal :smile: </a>
+
+<a href="https://github.com/anvit1618"> Anvit Agarwal 👽 </a>
